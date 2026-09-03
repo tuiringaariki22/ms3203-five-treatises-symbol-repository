@@ -1,0 +1,16 @@
+Id,Label,Type,Series,Rank,Weight
+Solomon,Solomon,root,structure,0,10
+Goetia,Goetia,branch,structure,1,8
+Theurgia,Theurgia,branch,structure,1,8
+Bael,Bael,spirit,goetia,2,3
+Agares,Agares,spirit,goetia,2,3
+Paimon,Paimon,spirit,goetia,2,3
+Andromalius,Andromalius,spirit,goetia,2,3
+Carnesiel,Carnesiel,emperor,theurgia,2,6
+Caspiel,Caspiel,emperor,theurgia,2,6
+Amenadiel,Amenadiel,emperor,theurgia,2,6
+Demoriel,Demoriel,emperor,theurgia,2,6
+Carnesiel-Dukes,Carnesiel Dukes,duke_group,theurgia,3,4
+Caspiel-Dukes,Caspiel Dukes,duke_group,theurgia,3,4
+Amenadiel-Dukes,Amenadiel Dukes,duke_group,theurgia,3,4
+Demoriel-Dukes,Demoriel Dukes,duke_group,theurgia,3,4
