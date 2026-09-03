@@ -1,0 +1,11 @@
+claim_id,claim_text,source_id,strength,related_claims
+W-EUC-01,Bread remains bread after consecration,Wyclif-DeEucharistia,5,WYC-01 WYC-02
+W-EUC-02,Sacramental not physical presence,Wyclif-DeEucharistia,5,W-EUC-01
+W-EUC-03,Accidents without subject intolerable,Wyclif-DeEucharistia,5,W-EUC-01
+W-EUC-04,Hoc est corpus meum true of sacramentally transformed bread,Wyclif-Trialogus,5,WYC-01
+W-DOM-01,True Church = predestined,Wyclif-DeEcclesia,5,LAN-02
+W-DOM-02,Temporal lords may deprive sinful clergy,Wyclif-Dominion,4,REG-01
+WYC-01,Words of institution = giving not making,The-Wycket,5,W-EUC-04
+WYC-02,Sacrament as mind/memorial/sign,The-Wycket,5,W-EUC-02
+LAN-02,True vs false church,Lantern,5,W-DOM-01
+REG-01,Critique of endowments,Ecclesiae-Regimen,5,W-DOM-02
